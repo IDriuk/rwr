@@ -1,5 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import keys from '../keys.js'
+
+const API_KEY = keys.youtube_api_key;
 
 // Create a new component. This component should produce
 // some html
